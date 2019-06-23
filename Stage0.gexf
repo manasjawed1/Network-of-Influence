@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Apple" label="Apple" />
+      <node id="Tim Cook" label="Tim Cook" />
+      <node id="Luca Maestri" label="Luca Maestri" />
+      <node id="Jeff Williams (Apple)" label="Jeff Williams (Apple)" />
+      <node id="Katherine L. Adams" label="Katherine L. Adams" />
+      <node id="Angela Ahrendts" label="Angela Ahrendts" />
+      <node id="Eddy Cue" label="Eddy Cue" />
+      <node id="Craig Federighi" label="Craig Federighi" />
+      <node id="John Giannandrea" label="John Giannandrea" />
+      <node id="Jony Ive" label="Jony Ive" />
+      <node id="Dan Riccio" label="Dan Riccio" />
+      <node id="Johny Srouji" label="Johny Srouji" />
+      <node id="Amazon" label="Amazon" />
+      <node id="Jeff Bezos" label="Jeff Bezos" />
+      <node id="Andy Jassy" label="Andy Jassy" />
+      <node id="Louis Castle" label="Louis Castle" />
+      <node id="Albert Cheng (executive)" label="Albert Cheng (executive)" />
+      <node id="Doug Gurr" label="Doug Gurr" />
+      <node id="Alphabet" label="Alphabet" />
+      <node id="Larry Page" label="Larry Page" />
+      <node id="Sergey Brin" label="Sergey Brin" />
+      <node id="Ruth Porat" label="Ruth Porat" />
+      <node id="Susan Wojcicki" label="Susan Wojcicki" />
+      <node id="Vint Cerf" label="Vint Cerf" />
+      <node id="Ivy Ross" label="Ivy Ross" />
+      <node id="Astro Teller" label="Astro Teller" />
+      <node id="Microsoft" label="Microsoft" />
+      <node id="Satya Nadella" label="Satya Nadella" />
+      <node id="Brad Smith (American lawyer)" label="Brad Smith (American lawyer)" />
+      <node id="Bill Gates" label="Bill Gates" />
+      <node id="Amy Hood" label="Amy Hood" />
+      <node id="Jean-Philippe Courtois" label="Jean-Philippe Courtois" />
+      <node id="Jeff Weiner" label="Jeff Weiner" />
+      <node id="Jennifer Tour Chayes" label="Jennifer Tour Chayes" />
+      <node id="Kurt DelBene" label="Kurt DelBene" />
+      <node id="Scott Guthrie" label="Scott Guthrie" />
+      <node id="Rico Malvar" label="Rico Malvar" />
+      <node id="George Peckham" label="George Peckham" />
+      <node id="Richard Rashid" label="Richard Rashid" />
+      <node id="Harry Shum" label="Harry Shum" />
+      <node id="Phil Spencer (business executive)" label="Phil Spencer (business executive)" />
+      <node id="Facebook" label="Facebook" />
+      <node id="Mark Zuckerberg" label="Mark Zuckerberg" />
+      <node id="David Wehner" label="David Wehner" />
+      <node id="Sheryl Sandberg" label="Sheryl Sandberg" />
+      <node id="David A. Marcus" label="David A. Marcus" />
+      <node id="Joëlle Pineau" label="Joëlle Pineau" />
+      <node id="Ricky Van Veen" label="Ricky Van Veen" />
+      <node id="Alibaba" label="Alibaba" />
+      <node id="Zhang Yong" label="Zhang Yong" />
+      <node id="J. Michael Evans" label="J. Michael Evans" />
+      <node id="Jack Ma" label="Jack Ma" />
+      <node id="Yang Weidong" label="Yang Weidong" />
+      <node id="Joseph Tsai" label="Joseph Tsai" />
+      <node id="Tencent" label="Tencent" />
+      <node id="Ma Huateng" label="Ma Huateng" />
+      <node id="Chen Yidan" label="Chen Yidan" />
+      <node id="Zhang Xiaolong" label="Zhang Xiaolong" />
+      <node id="Netflix" label="Netflix" />
+      <node id="Reed Hastings" label="Reed Hastings" />
+      <node id="Ted Sarandos" label="Ted Sarandos" />
+      <node id="Ant Financial" label="Ant Financial" />
+      <node id="Salesforce" label="Salesforce" />
+      <node id="Marc Benioff" label="Marc Benioff" />
+      <node id="Monica Langley" label="Monica Langley" />
+      <node id="Booking.com" label="Booking.com" />
+      <node id="Gillian Tans" label="Gillian Tans" />
+      <node id="PayPal" label="PayPal" />
+      <node id="Dan Schulman" label="Dan Schulman" />
+      <node id="Danese Cooper" label="Danese Cooper" />
+      <node id="Baidu" label="Baidu" />
+      <node id="Robin Li" label="Robin Li" />
+      <node id="Uber" label="Uber" />
+      <node id="Dara Khosrowshahi" label="Dara Khosrowshahi" />
+      <node id="Garrett Camp" label="Garrett Camp" />
+      <node id="Daniel Danker" label="Daniel Danker" />
+      <node id="Search results" label="Search results" />
+      <node id="JD.com" label="JD.com" />
+      <node id="Liu Qiangdong" label="Liu Qiangdong" />
+      <node id="Didi" label="Didi" />
+      <node id="Cheng Wei" label="Cheng Wei" />
+      <node id="Liu Qing (businesswoman)" label="Liu Qing (businesswoman)" />
+      <node id="Xiaomi" label="Xiaomi" />
+      <node id="Lei Jun" label="Lei Jun" />
+      <node id="Ebay" label="Ebay" />
+      <node id="Devin Wenig" label="Devin Wenig" />
+      <node id="Pierre Omidyar" label="Pierre Omidyar" />
+      <node id="Sukhinder Singh Cassidy" label="Sukhinder Singh Cassidy" />
+      <node id="Airbnb" label="Airbnb" />
+      <node id="Brian Chesky" label="Brian Chesky" />
+      <node id="Nathan Blecharczyk" label="Nathan Blecharczyk" />
+      <node id="Joe Gebbia" label="Joe Gebbia" />
+      <node id="Greg Greeley" label="Greg Greeley" />
+      <node id="Chip Conley" label="Chip Conley" />
+      <node id="Meiduan" label="Meiduan" />
+      <node id="Wang Xing" label="Wang Xing" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Apple" target="Tim Cook" />
+      <edge id="1" source="Apple" target="Luca Maestri" />
+      <edge id="2" source="Apple" target="Jeff Williams (Apple)" />
+      <edge id="3" source="Apple" target="Katherine L. Adams" />
+      <edge id="4" source="Apple" target="Angela Ahrendts" />
+      <edge id="5" source="Apple" target="Eddy Cue" />
+      <edge id="6" source="Apple" target="Craig Federighi" />
+      <edge id="7" source="Apple" target="John Giannandrea" />
+      <edge id="8" source="Apple" target="Jony Ive" />
+      <edge id="9" source="Apple" target="Dan Riccio" />
+      <edge id="10" source="Apple" target="Johny Srouji" />
+      <edge id="11" source="Amazon" target="Jeff Bezos" />
+      <edge id="12" source="Amazon" target="Andy Jassy" />
+      <edge id="13" source="Amazon" target="Louis Castle" />
+      <edge id="14" source="Amazon" target="Albert Cheng (executive)" />
+      <edge id="15" source="Amazon" target="Doug Gurr" />
+      <edge id="16" source="Alphabet" target="Larry Page" />
+      <edge id="17" source="Alphabet" target="Sergey Brin" />
+      <edge id="18" source="Alphabet" target="Ruth Porat" />
+      <edge id="19" source="Alphabet" target="Susan Wojcicki" />
+      <edge id="20" source="Alphabet" target="Vint Cerf" />
+      <edge id="21" source="Alphabet" target="Ivy Ross" />
+      <edge id="22" source="Alphabet" target="Astro Teller" />
+      <edge id="23" source="Microsoft" target="Satya Nadella" />
+      <edge id="24" source="Microsoft" target="Brad Smith (American lawyer)" />
+      <edge id="25" source="Microsoft" target="Bill Gates" />
+      <edge id="26" source="Microsoft" target="Amy Hood" />
+      <edge id="27" source="Microsoft" target="Jean-Philippe Courtois" />
+      <edge id="28" source="Microsoft" target="Jeff Weiner" />
+      <edge id="29" source="Microsoft" target="Jennifer Tour Chayes" />
+      <edge id="30" source="Microsoft" target="Kurt DelBene" />
+      <edge id="31" source="Microsoft" target="Scott Guthrie" />
+      <edge id="32" source="Microsoft" target="Rico Malvar" />
+      <edge id="33" source="Microsoft" target="George Peckham" />
+      <edge id="34" source="Microsoft" target="Richard Rashid" />
+      <edge id="35" source="Microsoft" target="Harry Shum" />
+      <edge id="36" source="Microsoft" target="Phil Spencer (business executive)" />
+      <edge id="37" source="Facebook" target="Mark Zuckerberg" />
+      <edge id="38" source="Facebook" target="David Wehner" />
+      <edge id="39" source="Facebook" target="Sheryl Sandberg" />
+      <edge id="40" source="Facebook" target="David A. Marcus" />
+      <edge id="41" source="Facebook" target="Joëlle Pineau" />
+      <edge id="42" source="Facebook" target="Ricky Van Veen" />
+      <edge id="43" source="Alibaba" target="Zhang Yong" />
+      <edge id="44" source="Alibaba" target="J. Michael Evans" />
+      <edge id="45" source="Alibaba" target="Jack Ma" />
+      <edge id="46" source="Alibaba" target="Yang Weidong" />
+      <edge id="47" source="Alibaba" target="Joseph Tsai" />
+      <edge id="48" source="Tencent" target="Ma Huateng" />
+      <edge id="49" source="Tencent" target="Chen Yidan" />
+      <edge id="50" source="Tencent" target="Zhang Xiaolong" />
+      <edge id="51" source="Netflix" target="Reed Hastings" />
+      <edge id="52" source="Netflix" target="Ted Sarandos" />
+      <edge id="53" source="Salesforce" target="Marc Benioff" />
+      <edge id="54" source="Salesforce" target="Monica Langley" />
+      <edge id="55" source="Booking.com" target="Gillian Tans" />
+      <edge id="56" source="PayPal" target="Dan Schulman" />
+      <edge id="57" source="PayPal" target="Danese Cooper" />
+      <edge id="58" source="Baidu" target="Robin Li" />
+      <edge id="59" source="Uber" target="Dara Khosrowshahi" />
+      <edge id="60" source="Uber" target="Garrett Camp" />
+      <edge id="61" source="Uber" target="Daniel Danker" />
+      <edge id="62" source="Uber" target="Search results" />
+      <edge id="63" source="JD.com" target="Liu Qiangdong" />
+      <edge id="64" source="Didi" target="Cheng Wei" />
+      <edge id="65" source="Didi" target="Liu Qing (businesswoman)" />
+      <edge id="66" source="Xiaomi" target="Lei Jun" />
+      <edge id="67" source="Ebay" target="Devin Wenig" />
+      <edge id="68" source="Ebay" target="Pierre Omidyar" />
+      <edge id="69" source="Ebay" target="Sukhinder Singh Cassidy" />
+      <edge id="70" source="Airbnb" target="Brian Chesky" />
+      <edge id="71" source="Airbnb" target="Nathan Blecharczyk" />
+      <edge id="72" source="Airbnb" target="Joe Gebbia" />
+      <edge id="73" source="Airbnb" target="Greg Greeley" />
+      <edge id="74" source="Airbnb" target="Chip Conley" />
+      <edge id="75" source="Meiduan" target="Wang Xing" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,1489 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="1" title="color" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Steve Jobs" label="Steve Jobs">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Luca Maestri" label="Luca Maestri" />
+      <node id="Tim Cook" label="Tim Cook" />
+      <node id="Arthur D. Levinson" label="Arthur D. Levinson">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="William Campbell (business executive)" label="William Campbell (business executive)">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Larry Ellison" label="Larry Ellison">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Mike Markkula" label="Mike Markkula">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Eric Schmidt" label="Eric Schmidt">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Tony Fadell" label="Tony Fadell">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="David Nagel" label="David Nagel">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Jon Rubinstein" label="Jon Rubinstein">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Jeff Williams (Apple)" label="Jeff Williams (Apple)" />
+      <node id="Katherine L. Adams" label="Katherine L. Adams" />
+      <node id="Angela Ahrendts" label="Angela Ahrendts" />
+      <node id="Eddy Cue" label="Eddy Cue" />
+      <node id="Craig Federighi" label="Craig Federighi" />
+      <node id="Guy Kawasaki" label="Guy Kawasaki">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Jony Ive" label="Jony Ive" />
+      <node id="Dan Riccio" label="Dan Riccio" />
+      <node id="Johny Srouji" label="Johny Srouji" />
+      <node id="Mark Zuckerberg" label="Mark Zuckerberg">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Jeff Bezos" label="Jeff Bezos" />
+      <node id="Larry Page" label="Larry Page" />
+      <node id="Andrew Grove" label="Andrew Grove">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Elon Musk" label="Elon Musk">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Susan Wojcicki" label="Susan Wojcicki">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Sergey Brin" label="Sergey Brin" />
+      <node id="Andrew Conrad" label="Andrew Conrad">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Paul Otellini" label="Paul Otellini">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Ruth Porat" label="Ruth Porat" />
+      <node id="Astro Teller" label="Astro Teller" />
+      <node id="Vint Cerf" label="Vint Cerf" />
+      <node id="Bill Gates" label="Bill Gates">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Satya Nadella" label="Satya Nadella" />
+      <node id="Brad Smith (American lawyer)" label="Brad Smith (American lawyer)" />
+      <node id="Steve Ballmer" label="Steve Ballmer">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Paul Allen" label="Paul Allen">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="John W. Thompson" label="John W. Thompson">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="John W. Stanton" label="John W. Stanton">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Amy Hood" label="Amy Hood" />
+      <node id="Kurt DelBene" label="Kurt DelBene" />
+      <node id="Scott Guthrie" label="Scott Guthrie" />
+      <node id="Reid Hoffman" label="Reid Hoffman">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Jeff Weiner" label="Jeff Weiner" />
+      <node id="Richard Rashid" label="Richard Rashid" />
+      <node id="Harry Shum" label="Harry Shum" />
+      <node id="Phil Spencer (business executive)" label="Phil Spencer (business executive)" />
+      <node id="Sal Khan" label="Sal Khan">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Robert W. Gore" label="Robert W. Gore">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="James Goodnight" label="James Goodnight">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="David Ebersman" label="David Ebersman">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="David Wehner" label="David Wehner" />
+      <node id="Peter Thiel" label="Peter Thiel">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Sheryl Sandberg" label="Sheryl Sandberg">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Mike Schroepfer" label="Mike Schroepfer">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Sean Parker" label="Sean Parker">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Owen Van Natta" label="Owen Van Natta">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Adam D'Angelo" label="Adam D'Angelo">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Bret Taylor" label="Bret Taylor">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Chris Cox (Facebook)" label="Chris Cox (Facebook)">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="John Carmack" label="John Carmack">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Yishan Wong" label="Yishan Wong">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Dave Goldberg" label="Dave Goldberg">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Reed Hastings" label="Reed Hastings" />
+      <node id="Marc Benioff" label="Marc Benioff" />
+      <node id="Danese Cooper" label="Danese Cooper" />
+      <node id="Travis Kalanick" label="Travis Kalanick">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Garrett Camp" label="Garrett Camp" />
+      <node id="Dara Khosrowshahi" label="Dara Khosrowshahi" />
+      <node id="Meg Whitman" label="Meg Whitman">
+        <attvalues>
+          <attvalue for="0" value="Intermediary" />
+        </attvalues>
+      </node>
+      <node id="Pierre Omidyar" label="Pierre Omidyar" />
+      <node id="Sukhinder Singh Cassidy" label="Sukhinder Singh Cassidy" />
+      <node id="Brian Chesky" label="Brian Chesky" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Steve Jobs" target="Luca Maestri">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="Steve Jobs" target="Tim Cook">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Steve Jobs" target="Jeff Williams (Apple)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Steve Jobs" target="Katherine L. Adams">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Steve Jobs" target="Angela Ahrendts">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Steve Jobs" target="Eddy Cue">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Steve Jobs" target="Craig Federighi">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Steve Jobs" target="Jony Ive">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Steve Jobs" target="Dan Riccio">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Steve Jobs" target="Johny Srouji">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Steve Jobs" target="Larry Page">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="Steve Jobs" target="Bill Gates">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Steve Jobs" target="Mark Zuckerberg">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Steve Jobs" target="Marc Benioff">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Luca Maestri" target="Arthur D. Levinson">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Luca Maestri" target="William Campbell (business executive)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Luca Maestri" target="Larry Ellison">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="Luca Maestri" target="Mike Markkula">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="Luca Maestri" target="Eric Schmidt">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="Luca Maestri" target="Tony Fadell">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="Luca Maestri" target="David Nagel">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="Luca Maestri" target="Jon Rubinstein">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="Luca Maestri" target="Guy Kawasaki">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Tim Cook" target="Arthur D. Levinson">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Tim Cook" target="William Campbell (business executive)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Tim Cook" target="Larry Ellison">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="Tim Cook" target="Mike Markkula">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="Tim Cook" target="Eric Schmidt">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="Tim Cook" target="Tony Fadell">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="Tim Cook" target="David Nagel">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="Tim Cook" target="Jon Rubinstein">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="Tim Cook" target="Guy Kawasaki">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="Tim Cook" target="Mark Zuckerberg">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="Tim Cook" target="Meg Whitman">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="Arthur D. Levinson" target="Jeff Williams (Apple)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="Arthur D. Levinson" target="Katherine L. Adams">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="Arthur D. Levinson" target="Angela Ahrendts">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="Arthur D. Levinson" target="Eddy Cue">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="Arthur D. Levinson" target="Craig Federighi">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="Arthur D. Levinson" target="Jony Ive">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="Arthur D. Levinson" target="Dan Riccio">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Arthur D. Levinson" target="Johny Srouji">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="Arthur D. Levinson" target="Larry Page">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="Arthur D. Levinson" target="Sergey Brin">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="Arthur D. Levinson" target="Ruth Porat">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="Arthur D. Levinson" target="Astro Teller">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="Arthur D. Levinson" target="Susan Wojcicki">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="Arthur D. Levinson" target="Vint Cerf">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="William Campbell (business executive)" target="Jeff Williams (Apple)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="William Campbell (business executive)" target="Katherine L. Adams">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="William Campbell (business executive)" target="Angela Ahrendts">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="William Campbell (business executive)" target="Eddy Cue">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="William Campbell (business executive)" target="Craig Federighi">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="William Campbell (business executive)" target="Jony Ive">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="William Campbell (business executive)" target="Dan Riccio">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="William Campbell (business executive)" target="Johny Srouji">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="Larry Ellison" target="Jeff Williams (Apple)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="Larry Ellison" target="Katherine L. Adams">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="Larry Ellison" target="Angela Ahrendts">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="Larry Ellison" target="Eddy Cue">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="Larry Ellison" target="Craig Federighi">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="Larry Ellison" target="Jony Ive">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="Larry Ellison" target="Dan Riccio">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="Larry Ellison" target="Johny Srouji">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="Larry Ellison" target="Jeff Bezos">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="Larry Ellison" target="Bill Gates">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="Larry Ellison" target="Mark Zuckerberg">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="Mike Markkula" target="Jeff Williams (Apple)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="Mike Markkula" target="Katherine L. Adams">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="Mike Markkula" target="Angela Ahrendts">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="Mike Markkula" target="Eddy Cue">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="Mike Markkula" target="Craig Federighi">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="Mike Markkula" target="Jony Ive">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="Mike Markkula" target="Dan Riccio">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="Mike Markkula" target="Johny Srouji">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="Eric Schmidt" target="Jeff Williams (Apple)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="Eric Schmidt" target="Katherine L. Adams">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="Eric Schmidt" target="Angela Ahrendts">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="Eric Schmidt" target="Eddy Cue">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="Eric Schmidt" target="Craig Federighi">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="Eric Schmidt" target="Jony Ive">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="Eric Schmidt" target="Dan Riccio">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="Eric Schmidt" target="Johny Srouji">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="Eric Schmidt" target="Larry Page">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="Eric Schmidt" target="Sergey Brin">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="Eric Schmidt" target="Ruth Porat">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="Eric Schmidt" target="Susan Wojcicki">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="Eric Schmidt" target="Astro Teller">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="Eric Schmidt" target="Vint Cerf">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="Tony Fadell" target="Jeff Williams (Apple)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="Tony Fadell" target="Katherine L. Adams">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="Tony Fadell" target="Angela Ahrendts">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="Tony Fadell" target="Eddy Cue">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="Tony Fadell" target="Craig Federighi">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="Tony Fadell" target="Jony Ive">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="Tony Fadell" target="Dan Riccio">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="Tony Fadell" target="Johny Srouji">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="Tony Fadell" target="Larry Page">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="Tony Fadell" target="Sergey Brin">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="Tony Fadell" target="Ruth Porat">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="Tony Fadell" target="Astro Teller">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="David Nagel" target="Jeff Williams (Apple)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="David Nagel" target="Katherine L. Adams">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="David Nagel" target="Angela Ahrendts">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="David Nagel" target="Eddy Cue">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="David Nagel" target="Craig Federighi">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="David Nagel" target="Jony Ive">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="David Nagel" target="Dan Riccio">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="David Nagel" target="Johny Srouji">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="Jon Rubinstein" target="Jeff Williams (Apple)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="Jon Rubinstein" target="Katherine L. Adams">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="Jon Rubinstein" target="Angela Ahrendts">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="Jon Rubinstein" target="Eddy Cue">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="Jon Rubinstein" target="Craig Federighi">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="Jon Rubinstein" target="Jony Ive">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="Jon Rubinstein" target="Dan Riccio">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="Jon Rubinstein" target="Johny Srouji">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="Jeff Williams (Apple)" target="Guy Kawasaki">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="Katherine L. Adams" target="Guy Kawasaki">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="Angela Ahrendts" target="Guy Kawasaki">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="Eddy Cue" target="Guy Kawasaki">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="Craig Federighi" target="Guy Kawasaki">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="Guy Kawasaki" target="Jony Ive">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="Guy Kawasaki" target="Danese Cooper">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="Guy Kawasaki" target="Dan Riccio">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="Guy Kawasaki" target="Johny Srouji">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="Mark Zuckerberg" target="Jeff Bezos">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="Mark Zuckerberg" target="Bill Gates">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="Mark Zuckerberg" target="Satya Nadella">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="Mark Zuckerberg" target="Larry Page">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="Mark Zuckerberg" target="Sergey Brin">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="Mark Zuckerberg" target="Elon Musk">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="Mark Zuckerberg" target="Sal Khan">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="Mark Zuckerberg" target="Andrew Grove">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="Mark Zuckerberg" target="Robert W. Gore">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="Mark Zuckerberg" target="James Goodnight">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="Mark Zuckerberg" target="David Ebersman">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="Mark Zuckerberg" target="Peter Thiel">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="Mark Zuckerberg" target="Sheryl Sandberg">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="Mark Zuckerberg" target="Mike Schroepfer">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="Mark Zuckerberg" target="Sean Parker">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="Mark Zuckerberg" target="Owen Van Natta">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="Mark Zuckerberg" target="Adam D'Angelo">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="Mark Zuckerberg" target="Bret Taylor">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="Mark Zuckerberg" target="Chris Cox (Facebook)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="Mark Zuckerberg" target="John Carmack">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="Mark Zuckerberg" target="Yishan Wong">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="Mark Zuckerberg" target="Dave Goldberg">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="Mark Zuckerberg" target="Reid Hoffman">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="Jeff Bezos" target="Andrew Grove">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="Jeff Bezos" target="Elon Musk">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="Jeff Bezos" target="Bill Gates">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="Jeff Bezos" target="Robert W. Gore">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="Jeff Bezos" target="James Goodnight">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="Larry Page" target="Andrew Grove">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="Larry Page" target="Elon Musk">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="Larry Page" target="Susan Wojcicki">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="Larry Page" target="Andrew Conrad">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="Larry Page" target="Paul Otellini">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="Andrew Grove" target="Bill Gates">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="Elon Musk" target="Bill Gates">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="Susan Wojcicki" target="Sergey Brin">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="Susan Wojcicki" target="Ruth Porat">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="Susan Wojcicki" target="Paul Otellini">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="Sergey Brin" target="Andrew Conrad">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="Sergey Brin" target="Paul Otellini">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="Andrew Conrad" target="Ruth Porat">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="Andrew Conrad" target="Astro Teller">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="Paul Otellini" target="Ruth Porat">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="Bill Gates" target="Satya Nadella">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="Bill Gates" target="Brad Smith (American lawyer)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="Bill Gates" target="Paul Allen">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="Bill Gates" target="Steve Ballmer">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="Bill Gates" target="John W. Thompson">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="Bill Gates" target="John W. Stanton">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="Bill Gates" target="Sal Khan">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="Satya Nadella" target="Steve Ballmer">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="Satya Nadella" target="Paul Allen">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="Satya Nadella" target="John W. Thompson">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="Satya Nadella" target="John W. Stanton">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="180" source="Brad Smith (American lawyer)" target="Steve Ballmer">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="181" source="Steve Ballmer" target="Kurt DelBene">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="182" source="Steve Ballmer" target="Amy Hood">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="183" source="Paul Allen" target="Amy Hood">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="184" source="Paul Allen" target="Scott Guthrie">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="185" source="Paul Allen" target="Richard Rashid">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="186" source="Paul Allen" target="Harry Shum">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="187" source="Paul Allen" target="Phil Spencer (business executive)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="188" source="Paul Allen" target="Reed Hastings">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="189" source="John W. Thompson" target="Amy Hood">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="190" source="John W. Thompson" target="Scott Guthrie">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="191" source="John W. Thompson" target="Richard Rashid">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="192" source="John W. Thompson" target="Harry Shum">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="193" source="John W. Thompson" target="Phil Spencer (business executive)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="194" source="John W. Thompson" target="Reed Hastings">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="195" source="John W. Stanton" target="Amy Hood">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="196" source="John W. Stanton" target="Scott Guthrie">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="197" source="John W. Stanton" target="Richard Rashid">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="198" source="John W. Stanton" target="Harry Shum">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="199" source="John W. Stanton" target="Phil Spencer (business executive)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="200" source="John W. Stanton" target="Reed Hastings">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="201" source="Scott Guthrie" target="Reid Hoffman">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="202" source="Reid Hoffman" target="Jeff Weiner">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="203" source="Reid Hoffman" target="Richard Rashid">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="204" source="Reid Hoffman" target="Harry Shum">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="205" source="Reid Hoffman" target="Phil Spencer (business executive)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="206" source="Reid Hoffman" target="Reed Hastings">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="207" source="Reid Hoffman" target="Sheryl Sandberg">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="208" source="Reid Hoffman" target="Brian Chesky">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="209" source="Jeff Weiner" target="Dave Goldberg">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="210" source="Robert W. Gore" target="Pierre Omidyar">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="211" source="James Goodnight" target="Pierre Omidyar">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="212" source="David Ebersman" target="David Wehner">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="213" source="David Ebersman" target="Sheryl Sandberg">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="214" source="David Ebersman" target="Reed Hastings">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="215" source="David Wehner" target="Peter Thiel">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="216" source="David Wehner" target="Sheryl Sandberg">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="217" source="David Wehner" target="Mike Schroepfer">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="218" source="David Wehner" target="Sean Parker">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="219" source="David Wehner" target="Owen Van Natta">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="220" source="David Wehner" target="Adam D'Angelo">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="221" source="David Wehner" target="Bret Taylor">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="222" source="David Wehner" target="Chris Cox (Facebook)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="223" source="David Wehner" target="John Carmack">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="224" source="David Wehner" target="Yishan Wong">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="225" source="Peter Thiel" target="Sheryl Sandberg">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="226" source="Peter Thiel" target="Reed Hastings">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="227" source="Sheryl Sandberg" target="Dave Goldberg">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="228" source="Sheryl Sandberg" target="Owen Van Natta">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="229" source="Sheryl Sandberg" target="Mike Schroepfer">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="230" source="Sheryl Sandberg" target="Sean Parker">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="231" source="Sheryl Sandberg" target="Adam D'Angelo">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="232" source="Sheryl Sandberg" target="Bret Taylor">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="233" source="Sheryl Sandberg" target="Chris Cox (Facebook)">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="234" source="Sheryl Sandberg" target="John Carmack">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="235" source="Sheryl Sandberg" target="Yishan Wong">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="236" source="Mike Schroepfer" target="Reed Hastings">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="237" source="Sean Parker" target="Reed Hastings">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="238" source="Owen Van Natta" target="Reed Hastings">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="239" source="Adam D'Angelo" target="Reed Hastings">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="240" source="Bret Taylor" target="Reed Hastings">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="241" source="Bret Taylor" target="Sukhinder Singh Cassidy">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="242" source="Chris Cox (Facebook)" target="Reed Hastings">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="243" source="John Carmack" target="Reed Hastings">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="244" source="Yishan Wong" target="Reed Hastings">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="245" source="Travis Kalanick" target="Garrett Camp">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="246" source="Travis Kalanick" target="Dara Khosrowshahi">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="247" source="Garrett Camp" target="Meg Whitman">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+      <edge id="248" source="Meg Whitman" target="Pierre Omidyar">
+        <attvalues>
+          <attvalue for="1" value="g" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
