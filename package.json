@@ -11,11 +11,20 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node  src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Muhammad Anas Jawed",
   "license": "ISC",
   "keywords": [
     "network"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manasjawed1/Network-of-Influence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manasjawed1/Network-of-Influence/issues"
+  },
+  "homepage": "https://github.com/manasjawed1/Network-of-Influence#readme"
 }
