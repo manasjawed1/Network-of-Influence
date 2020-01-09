@@ -1,0 +1,21 @@
+{
+  "name": "final-project-maj524",
+  "version": "1.0.0",
+  "description": "Commands to import nodes and links to mongodb:\r mongoimport --db final --collection nodes --file \"C:\\Users\\Muhammad Anas Jawed\\Documents\\AIT\\Final Project\\src\\public\\nodes.json\" --jsonArray\r mongoimport --db final --collection links --file \"C:\\Users\\Muhammad Anas Jawed\\Documents\\AIT\\Final Project\\src\\public\\links.json\" --jsonArray",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "eslint-plugin-mocha": "^6.2.1",
+    "mongoose": "^5.7.12",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Anas Jawed",
+  "license": "ISC",
+  "keywords": [
+    "network"
+  ]
+}

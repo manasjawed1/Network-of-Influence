@@ -1,0 +1,42 @@
+.links line {
+	stroke: #aaa;
+}
+
+body {
+	font-family: sans-serif;
+    background: #E0E0E1;
+	text-align: center;
+}
+
+#content {
+	width: 500px;
+	margin: auto;
+	text-align: left;
+}
+
+
+input[type="text"], .modal-content > input[type="button"] {
+	font-size: 1.25em;
+	padding: 0.5em;
+}
+
+input[type="button"] {
+	padding: 0.75em;
+	border: none;
+	background-color: #000;
+	color: white;
+}
+
+article {
+	margin-bottom: 2em;
+}
+
+article > h3 {
+	border-bottom: 1px dashed black;
+	padding: 0.25em;
+}
+
+h1 {
+	margin: 0;
+	  display: inline-block;
+  }

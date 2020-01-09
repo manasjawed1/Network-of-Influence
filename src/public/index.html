@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Network of Influence</title>
+		<link href="/stylesheets/style.css" rel="stylesheet">
+		<meta charset="utf-8" /> 
+	</head>
+	<body>
+		<h1 class = "greeting">The Network of Influence</h1>
+		<button class="name" style="float: right;">Go </button>
+		<input type="text" id="inputName" name="inputName" value="Enter your name" style="float: right; height: 5px;">
+
+		<div class="chart-container" style="text-align:center;"></div>
+		<h3>wikipedia.org/wiki/</h3>
+		<input type="text" id="inputURL" name="inputURL" value="" style = "height: 5px;">
+		<button class="expand">Expand graph</button>
+		<h3 class ="status">Please add a person, and then wait a few seconds</h3>
+		<div class = "linksList"></div>
+		<script src="https://d3js.org/d3.v4.min.js"></script>
+		<script type="text/javascript" src="javascripts/graph.js"></script>
+		<script src="javascripts/newindex.js"></script>
+		
+	</body>
+</html>
