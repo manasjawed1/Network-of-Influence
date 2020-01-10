@@ -42,7 +42,7 @@ if (process.env.NODE_ENV === 'PRODUCTION') {
  dbconf = conf.dbconf;
 } else {
  // if we're not in PRODUCTION mode, then use
- dbconf = 'mongodb://localhost/final';
+ dbconf = 'mongodb://anasjawed:thepassword2A@ds121960.mlab.com:21960/heroku_5qqdv10f';
 }
 
 mongoose.connect(dbconf, { useNewUrlParser: true });
