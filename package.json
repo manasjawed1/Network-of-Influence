@@ -8,7 +8,7 @@
     "eslint-plugin-mocha": "^6.2.1",
     "mongoose": "^5.7.12",
     "request": "^2.88.0",
-    "express":"*"
+    "express": "*"
   },
   "devDependencies": {},
   "scripts": {
